@@ -1,1 +1,1 @@
-# Retrieval-through-Captioning-Enhanced-Interpretation
+# Retrieval-Through-Captioning-Enhanced-Interpretation
