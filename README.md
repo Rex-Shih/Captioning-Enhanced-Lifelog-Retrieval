@@ -45,4 +45,3 @@ The dataset is structured as a list of JSON objects, each representing an image 
 
 For any questions or issues, please open an issue in the repository or contact the author at [yfshih@nlg.csie.ntu.edu.tw].
 
-```
