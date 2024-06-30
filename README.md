@@ -30,3 +30,19 @@ The dataset is structured as a list of JSON objects, each representing an image 
     "coarse-grained": "Riding the elevator and pressing the floor button.",
     "Experience-summary": "Started the morning by taking the elevator, visiting the hotel lobby, interacting with staff, then enjoying a buffet breakfast."
 }
+```
+
+## How to Use
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/Rex-Shih/Retrieval-through-Captioning-Enhanced-Interpretation.git
+    ```
+2. Load the JSON file using your preferred method.
+
+
+## Contact
+
+For any questions or issues, please open an issue in the repository or contact the author at [yfshih@nlg.csie.ntu.edu.tw].
+
+```
