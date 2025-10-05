@@ -34,6 +34,7 @@ Each JSON object contains **only captions** (no original dataset metadata). Fiel
 - `Experience-summary`
 
 ### Sample Entry
+Also see [sample.json](sample.json)  
 ```json
 {
   "id": "u1_20180525_0208_i00",
