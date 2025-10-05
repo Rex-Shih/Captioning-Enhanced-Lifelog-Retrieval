@@ -77,6 +77,6 @@ Also see [sampleData.json](sampleData.json)
 
 ---
 
-## 📬 Contact
+## Contact
 
 Open a GitHub issue or email **ys7237@nyu.edu**.
