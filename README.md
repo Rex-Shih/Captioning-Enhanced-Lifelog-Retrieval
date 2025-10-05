@@ -4,7 +4,7 @@ This repository releases the **caption dataset** and supporting resources for ou
 
 ---
 
-## 🔗 Paper
+## Paper
 
 - **Preprint (PDF):** [paper.pdf](paper.pdf)  
 - **IEEE Xplore:** https://ieeexplore.ieee.org/document/10825835
@@ -13,13 +13,13 @@ This repository releases the **caption dataset** and supporting resources for ou
 
 ---
 
-## 📦 Dataset Access
+## Dataset Access
 
-**➡️ Download (Google Drive):** https://drive.google.com/file/d/1L8RDqUijk9KOgylwxpFGmOUM-mmuqNpN/view?usp=sharing  
+** Download (Google Drive):** https://drive.google.com/file/d/1L8RDqUijk9KOgylwxpFGmOUM-mmuqNpN/view?usp=sharing  
 
 ---
 
-## 🧾 JSON Format (exact field names)
+## JSON Format (exact field names)
 
 Each JSON object contains **only captions** (no original dataset metadata). Field names are as below:
 
@@ -51,7 +51,7 @@ Also see [sampleData.json](sampleData.json)
 
 ---
 
-## 🔒 Licensing & Usage
+## Licensing & Usage
 
 - These captions are released for **research** use.  
 - The original lifelog images belong to **NTCIR-14 Lifelog-3**—please obtain and follow their license.  
@@ -60,7 +60,7 @@ Also see [sampleData.json](sampleData.json)
 
 ---
 
-## ✍️ Citation (BibTeX)
+## Citation (BibTeX)
 
 ```bibtex
 @INPROCEEDINGS{10825835,
