@@ -15,7 +15,7 @@ This repository releases the **caption dataset** and supporting resources for ou
 
 ## 📦 Dataset Access
 
-**➡️ Download (Google Drive):** https://drive.google.com/file/d/12l-rlaf7IP_YsxPF0_gjYDQv29kCVPEO/view?usp=drive_link  
+**➡️ Download (Google Drive):** https://drive.google.com/file/d/1L8RDqUijk9KOgylwxpFGmOUM-mmuqNpN/view?usp=sharing  
 
 ---
 
